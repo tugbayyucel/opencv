@@ -1,3 +1,4 @@
+# resim üzerinde 4 kenarı belirtilen bir alana kuş bakışı görünüm yapma
 import cv2
 import numpy as np
 
