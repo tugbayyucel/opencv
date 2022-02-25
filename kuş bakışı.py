@@ -2,7 +2,7 @@
 import cv2
 import numpy as np
 
-circles = np.zeros((4,2),np.int_)
+circles = np.zeros((4,2),int)
 counter=0
 
 def mousePoint(event,x,y,flags,param):
